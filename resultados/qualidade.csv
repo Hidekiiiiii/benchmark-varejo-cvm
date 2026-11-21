@@ -1,0 +1,81 @@
+cd_cvm,empresa,ano,regra,bloqueante,detalhe
+24805,Vivara,2025,ciclo atípico,false,ciclo de caixa de 562 dias
+24805,Vivara,2024,ciclo atípico,false,ciclo de caixa de 516 dias
+24805,Vivara,2020,ciclo atípico,false,ciclo de caixa de 490 dias
+24805,Vivara,2019,ciclo atípico,false,ciclo de caixa de 734 dias
+24805,Vivara,2021,ciclo atípico,false,ciclo de caixa de 379 dias
+24805,Vivara,2023,ciclo atípico,false,ciclo de caixa de 463 dias
+24805,Vivara,2022,ciclo atípico,false,ciclo de caixa de 416 dias
+14826,GPA,2018,reapresentação,false,vale a versão 2 do documento
+21440,Veste,2019,reapresentação,false,vale a versão 3 do documento
+25682,CM Hospitalar,2025,reapresentação,false,vale a versão 2 do documento
+5258,Raia Drogasil,2024,reapresentação,false,vale a versão 2 do documento
+20990,Americanas,2019,reapresentação,false,vale a versão 2 do documento
+25046,D1000,2020,reapresentação,false,vale a versão 3 do documento
+24694,Grupo SBF (Centauro),2023,reapresentação,false,vale a versão 2 do documento
+25186,Grupo Mateus,2022,reapresentação,false,vale a versão 3 do documento
+6505,Casas Bahia,2015,reapresentação,false,vale a versão 2 do documento
+20346,Profarma,2015,reapresentação,false,vale a versão 3 do documento
+22470,Magazine Luiza,2018,reapresentação,false,vale a versão 2 do documento
+24171,Atacadão,2017,reapresentação,false,vale a versão 2 do documento
+14826,GPA,2019,reapresentação,false,vale a versão 3 do documento
+4537,Grazziotin,2023,reapresentação,false,vale a versão 3 do documento
+22608,Pague Menos,2022,reapresentação,false,vale a versão 2 do documento
+14826,GPA,2016,reapresentação,false,vale a versão 2 do documento
+4537,Grazziotin,2022,reapresentação,false,vale a versão 2 do documento
+21440,Veste,2022,reapresentação,false,vale a versão 2 do documento
+20346,Profarma,2025,reapresentação,false,vale a versão 2 do documento
+25046,D1000,2025,reapresentação,false,vale a versão 2 do documento
+4669,Guararapes (Riachuelo),2015,reapresentação,false,vale a versão 2 do documento
+24694,Grupo SBF (Centauro),2019,reapresentação,false,vale a versão 2 do documento
+26166,Grupo Fartura,2023,reapresentação,false,vale a versão 2 do documento
+9342,Dimed (Panvel),2022,reapresentação,false,vale a versão 2 do documento
+22470,Magazine Luiza,2016,reapresentação,false,vale a versão 2 do documento
+24848,C&A,2019,reapresentação,false,vale a versão 2 do documento
+8133,Lojas Renner,2025,reapresentação,false,vale a versão 2 do documento
+9342,Dimed (Panvel),2017,reapresentação,false,vale a versão 2 do documento
+25682,CM Hospitalar,2021,reapresentação,false,vale a versão 2 do documento
+20346,Profarma,2016,reapresentação,false,vale a versão 2 do documento
+22055,Marisa,2019,reapresentação,false,vale a versão 2 do documento
+24694,Grupo SBF (Centauro),2024,reapresentação,false,vale a versão 2 do documento
+6505,Casas Bahia,2023,reapresentação,false,vale a versão 2 do documento
+25046,D1000,2023,reapresentação,false,vale a versão 3 do documento
+20346,Profarma,2022,reapresentação,false,vale a versão 2 do documento
+24171,Atacadão,2021,reapresentação,false,vale a versão 2 do documento
+25089,Petz,2021,reapresentação,false,vale a versão 2 do documento
+25186,Grupo Mateus,2024,reapresentação,false,vale a versão 3 do documento
+22055,Marisa,2023,reapresentação,false,vale a versão 2 do documento
+25046,D1000,2021,reapresentação,false,vale a versão 2 do documento
+25089,Petz,2022,reapresentação,false,vale a versão 2 do documento
+20346,Profarma,2018,reapresentação,false,vale a versão 2 do documento
+20990,Americanas,2015,reapresentação,false,vale a versão 2 do documento
+22470,Magazine Luiza,2015,reapresentação,false,vale a versão 2 do documento
+14826,GPA,2015,reapresentação,false,vale a versão 3 do documento
+22055,Marisa,2016,reapresentação,false,vale a versão 2 do documento
+22608,Pague Menos,2024,reapresentação,false,vale a versão 2 do documento
+20990,Americanas,2020,reapresentação,false,vale a versão 2 do documento
+25046,D1000,2019,reapresentação,false,vale a versão 2 do documento
+22055,Marisa,2022,reapresentação,false,vale a versão 2 do documento
+21440,Veste,2015,reapresentação,false,vale a versão 2 do documento
+4537,Grazziotin,2019,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+24805,Vivara,2025,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+4537,Grazziotin,2018,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+24805,Vivara,2024,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+24805,Vivara,2020,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+4537,Grazziotin,2016,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+24805,Vivara,2019,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+4537,Grazziotin,2017,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+24805,Vivara,2021,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+24805,Vivara,2023,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+4537,Grazziotin,2020,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+24805,Vivara,2022,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+4537,Grazziotin,2015,escala em unidades,false,valores publicados em reais (não em milhares); convertidos
+14826,GPA,2016,mudança de perímetro provável,false,receita real variou -45% no ano; fora da mediana de crescimento
+14826,GPA,2022,mudança de perímetro provável,false,receita real variou -69% no ano; fora da mediana de crescimento
+22055,Marisa,2023,mudança de perímetro provável,false,receita real variou -43% no ano; fora da mediana de crescimento
+25186,Grupo Mateus,2020,mudança de perímetro provável,false,receita real variou +49% no ano; fora da mediana de crescimento
+24694,Grupo SBF (Centauro),2021,mudança de perímetro provável,false,receita real variou +96% no ano; fora da mediana de crescimento
+22470,Magazine Luiza,2020,mudança de perímetro provável,false,receita real variou +42% no ano; fora da mediana de crescimento
+20990,Americanas,2020,mudança de perímetro provável,false,receita real variou +45% no ano; fora da mediana de crescimento
+20990,Americanas,2021,mudança de perímetro provável,false,receita real variou +107% no ano; fora da mediana de crescimento
+20990,Americanas,2023,mudança de perímetro provável,false,receita real variou -45% no ano; fora da mediana de crescimento
